@@ -1,0 +1,4 @@
+- insert:
+    - id: persona-forge
+      name: dsh-persona-forge
+      config: {}

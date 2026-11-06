@@ -1,0 +1,10 @@
+node_modules/
+.DS_Store
+*.log
+
+# 平台二进制（43MB）：用 PERSONA_FORGE_FFMPEG 指向本机 ffmpeg，或自行放入 bin/ffmpeg
+bin/ffmpeg
+
+# Python 缓存
+__pycache__/
+*.py[cod]
