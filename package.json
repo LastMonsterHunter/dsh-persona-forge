@@ -13,7 +13,6 @@
     "index.js",
     "client.js",
     "lib",
-    "scripts/seek_frames.py",
     "scripts/tieba_fetch.py",
     "cordis.patch.yml",
     "locale/*.json",
